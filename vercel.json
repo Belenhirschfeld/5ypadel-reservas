@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/reservar", "destination": "/index.html" }]
+}
